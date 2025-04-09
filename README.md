@@ -1,4 +1,3 @@
-# html-basics
 <!DOCTYPE html>
 <html lang="en"> 
   <head>
